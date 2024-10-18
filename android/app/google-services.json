@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768161328789",
+    "project_id": "fir-e1d2a",
+    "storage_bucket": "fir-e1d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768161328789:android:073bf85f29aed1c51df59c",
+        "android_client_info": {
+          "package_name": "com.lab1_linh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-80iWk0rPExBOb9QPAduYLneaWooMZEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
